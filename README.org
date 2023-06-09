@@ -1,0 +1,9 @@
+* fiveam
+
+https://github.com/lispci/fiveam.git
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/lispci/fiveam.git |
+| commit  | e11dee7                                  |
+| systems | fiveam                                   |
+|---------+------------------------------------------|
