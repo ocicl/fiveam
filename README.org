@@ -4,6 +4,6 @@ https://github.com/lispci/fiveam.git
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/lispci/fiveam.git |
-| commit  | 2bea19f                                  |
+| commit  | 204104a                                  |
 | systems | fiveam                                   |
 |---------+------------------------------------------|
